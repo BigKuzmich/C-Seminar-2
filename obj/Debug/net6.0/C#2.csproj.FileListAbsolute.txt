@@ -1,0 +1,15 @@
+D:\Обучение\ГБ\task\C#2\bin\Debug\net6.0\C#2.exe
+D:\Обучение\ГБ\task\C#2\bin\Debug\net6.0\C#2.deps.json
+D:\Обучение\ГБ\task\C#2\bin\Debug\net6.0\C#2.runtimeconfig.json
+D:\Обучение\ГБ\task\C#2\bin\Debug\net6.0\C#2.dll
+D:\Обучение\ГБ\task\C#2\bin\Debug\net6.0\C#2.pdb
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.csproj.AssemblyReference.cache
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.AssemblyInfoInputs.cache
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.AssemblyInfo.cs
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.csproj.CoreCompileInputs.cache
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.dll
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\refint\C#2.dll
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.pdb
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\C#2.genruntimeconfig.cache
+D:\Обучение\ГБ\task\C#2\obj\Debug\net6.0\ref\C#2.dll

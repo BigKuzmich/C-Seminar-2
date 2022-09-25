@@ -22,7 +22,19 @@ void Task2()
 
 void Task3()
 {
-    
+    int a = int.Parse(Console.ReadLine());
+    if(a>0 && a<6)
+    {
+        Console.WriteLine("Будний день");
+    }
+    else if(a>5 && a<8)
+    {
+        Console.WriteLine("Выходной день");
+    }
+    else if(a>7)
+    {
+        Console.WriteLine("Такого дня недели не существует ");
+    }
 }
 
 while (true)
